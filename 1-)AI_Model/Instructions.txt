@@ -1,1 +1,10 @@
+This is the first step to complete the project.
 
+1-) Open makeairobots.com on your browser.
+2-) Click on "1. Google Teachable Machine AI Model".
+3-) Click on "Get Started" --> "Image Project".
+4-) For this project, you need your Class 1 as a person. Click on "Webcam" for Class 1 and hold to record. You need to be exposing yourself from different angles to the model for model to be able to recognize you better. I have trained it with approximately 500 images for Class 1 and Class 2(Refer to the image "ai-model.PNG" in the same folder).
+5-) Train the Class 2 as a background with no objects. Try moving camera to the ceiling and to the different angles of the room you are in to have a better accuracy. Remember, these models are very sensitive to background so try using your model in the same room it is trained in.
+6-) Once you are done clik "Train Model". It may take a couple of minutes.
+7-) Click on "Export Model". It directs you to the Tensorflow.js section automatically. Click on "Upload my model" and wait for link to be ready. Once the link is ready, copy it.
+8-) You are ready to configure micro:bit. Go to the folder "2-)Microbit_CodeBlocks/Instructions.txt". 
