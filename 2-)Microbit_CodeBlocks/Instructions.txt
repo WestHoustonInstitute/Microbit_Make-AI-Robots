@@ -1,1 +1,11 @@
+This is the second and final part to complete the project.
 
+1-) Open makeairobots.com on your browser.
+2-) Click on "2. Starter micro:bit code".
+3-) Click on "Edit code" on the top right.
+4-) We have derived from the original code to make our project so please refer to the "microbit_conf.PNG" on the same folder.
+5-) After you have configured your code according to the "microbit_conf", plug in the usb and the micro:bit to the computer. Press Download and "Pair" micro:bit to the computer. When it is done, the model should be transfered to the micro:bit. If you are not able to "Download" and transfer the model to your micro:bit, please download the .hex file in this folder and transfer it to the micro:bit manually.
+6-) Open makeairobots.com on your browser and click on "3. Connect to your micro:bit to your AI!". Connect your micro:bit to the computer with the serial port from the pop-up on the top left.
+7-) Paste the link you acquired from the previous step(Refer to "AI_Model/Instructions.txt"). 
+8-) Click on ready.
+9-) Test your model by leaving the frame. It should sound when you enter the frame.
